@@ -12,3 +12,5 @@
 {a6}(https://github.com/shrujan123/AIML-B4/blob/main/Assignment-6.ipynb)
 
 {a7}(https://github.com/shrujan123/AIML-B4/blob/main/Assignment-7.ipynb)
+
+{a8}(https://github.com/shrujan123/AIML-B4/blob/main/Assignment_8.ipynb)
